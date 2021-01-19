@@ -2,15 +2,7 @@
 //--Date	: December 4, 2020
 //--Purpose : Assignment 2 DBS311
 //-----------------------------------------------------------
-//Name 								Section 		Seneca ID
-//-----------------------------------------------------------
-//Fiona Taniredjo 					NDD 			027294032
-//Zulfiyya Farhadli 				NGG 			168707180
-//Jigarkumar Pritamkumar Koradiya 	NDD 			164861189
-//Kyle LeBlanc 						NEE 			112337191
-//Brooke Isbister 					NEE 			166344184
-//Luan Lima Campos 					NDD 			119386191
-//-----------------------------------------------------------
+
 
 #include <iostream>
 #include <iomanip>
